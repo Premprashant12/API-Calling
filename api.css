@@ -1,0 +1,46 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+
+    background-color: rgba(172, 115, 9, 0.905);
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px rgb(12, 9, 2);
+}
+
+.main{
+
+
+    /* border: 2px solid black; */
+    height: 700px;
+
+    border-radius: 4px;
+}
+
+.input{
+
+    margin-left: 40%;
+}
+
+.btn{
+
+    background-color: orange;
+    color: aquamarine;
+}
+
+#flag{
+
+    width: 100px;
+    height: 100px;
+}
+ 
+ .table{
+
+    opacity: 0; 
+    
+ }
